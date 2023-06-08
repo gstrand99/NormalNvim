@@ -15,7 +15,7 @@ Space shows [all you can do](https://github.com/Zeioth/NormalNvim/wiki/basic-map
 ```sh
 # Strongly recommended: 
 # Fork the project, and clone the fork instead of this.
-git clone --depth 1 git@github.com:Zeioth/NormalNVim.git ~/.config/nvim
+git clone --depth 1 git@github.com:gstrand99/NormalNvim.git ~/.config/nvim
 nvim
 ```
 
